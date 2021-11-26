@@ -1,0 +1,9 @@
+Codigo: asas34
+Descripcion: assds
+cantidad: 2292708
+Codigo: asasas
+Descripcion: sdsd
+cantidad: 2292708
+Codigo: asasa23
+Descripcion: dssdsd
+cantidad: 2292708

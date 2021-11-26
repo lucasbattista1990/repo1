@@ -1,0 +1,12 @@
+nombre: lucAS
+apellido: battista
+documento: 35324320
+fecha de nacimiento: 22/9/1990
+ventanilla asignada: 1
+999
+nombre: rocio
+apellido: gesualdo
+documento: 38423871
+fecha de nacimiento: 18/7/1995
+ventanilla asignada: 7
+999

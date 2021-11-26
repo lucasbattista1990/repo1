@@ -1,0 +1,20 @@
+nombre: 1 apellido: 1
+nombre: 1 apellido: 1
+nombre:  apellido: 1
+nombre: 1 apellido: 1
+nombre:  apellido: 
+nombre:  apellido: 
+nombre: V apellido: 
+nombre:  apellido: 
+nombre: ^ apellido: 
+nombre: d apellido: 
+nombre: 1 apellido: 1
+nombre:  apellido: 1
+nombre: 1 apellido: 1
+nombre:  apellido: 
+nombre:  apellido: 
+nombre: V apellido: 
+nombre:  apellido: 
+nombre: ^ apellido: 
+nombre: d apellido: 
+nombre: D(±¨ apellido: d
